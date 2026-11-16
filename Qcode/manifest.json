@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "二维码生成器",
+  "version": "1.0.0",
+  "description": "一键生成当前网页的二维码",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
